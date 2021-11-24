@@ -1,3 +1,5 @@
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
 What are we doing in the primers?
 =================================
 
@@ -26,7 +28,7 @@ Authors
 
 This repo is joint work of
 
-*   [Dirk Roorda](https://www.linkedin.com/in/dirkroorda/) at
+*   [Dirk Roorda](https://github.com/dirkroorda) at
     [DANS](https://www.dans.knaw.nl)
 *   [J. Cale Johnson](https://www.birmingham.ac.uk/staff/profiles/caha/johnson-cale.aspx)
     at the
